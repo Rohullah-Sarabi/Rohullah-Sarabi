@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rohullah Sarabi</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.expertiters.com.br%2Fsolucoes%2Fdesenvolvimento-de-sistemas%2F&psig=AOvVaw13RmGwFMYUeEjotECLgTA7&ust=1761543736084000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOC0nvqTwZADFQAAAAAdAAAAABAK" alt="rohullah-sarabi" /> </p>
+<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThzBhLCVyUQx61ts5QhYKYa2Gav8NrgkZeOh9NDwqTgaDb1x3sNNerFAFUPlg4G1VKiw&usqp=CAU" alt="rohullah-sarabi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohullah-sarabi" alt="rohullah-sarabi" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohullah-sarabi" alt="rohullah-sarabi" /></a> </p> -->
 
 - 🔭 I’m currently working on **AWCC (Afghan Wireless Communication Company)**
 
