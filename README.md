@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohullah Sarabi</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="left"> <img src="https://imgcdn.stablediffusionweb.com/2025/1/30/d18632b5-1665-4024-964a-717449d349d3.jpg" alt="rohullah-sarabi" /> </p>
+<p align="left"> <img src="https://github.com/Rohullah-Sarabi/Rohullah-Sarabi/blob/main/d18632b5-1665-4024-964a-717449d349d3.jpg" alt="rohullah-sarabi" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohullah-sarabi" alt="rohullah-sarabi" /></a> </p> -->
 
