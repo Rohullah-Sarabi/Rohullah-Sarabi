@@ -1,26 +1,105 @@
-<h1 align="center">Hi 👋, I'm Rohullah Sarabi</h1>
-<h3 align="center">Full Stack Developer</h3>
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi 👋, I'm <span style="color:#0078ff;">Rohullah Sarabi</span></h1>
+<h3 align="center">🚀 Full Stack Developer | React | Next.js | Node | Nest.js</h3>
 
-<p align="left"> <img src="https://github.com/Rohullah-Sarabi/Rohullah-Sarabi/blob/main/d18632b5-1665-4024-964a-717449d349d3.jpg" alt="rohullah-sarabi" /> </p>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohullah-sarabi" alt="rohullah-sarabi" /></a> </p> -->
-
-- 🔭 I’m currently working on **AWCC (Afghan Wireless Communication Company)**
-
-- 💬 Ask me about **React, Next, Express.js, Nest.js**
-
-- 📫 How to reach me **rohullahsarabi79@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohullah-sarabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohullah-sarabi" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github.com/Rohullah-Sarabi/Rohullah-Sarabi/blob/main/d18632b5-1665-4024-964a-717449d349d3.jpg" alt="rohullah-sarabi" width="180" style="border-radius:50%;"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:rohullahsarabi79@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/rohullah-sarabi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/Rohullah-Sarabi" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohullah-sarabi&show_icons=true&locale=en&layout=compact" alt="rohullah-sarabi" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohullah-sarabi&show_icons=true&locale=en" alt="rohullah-sarabi" /></p>
+### 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohullah-sarabi&" alt="rohullah-sarabi" /></p>
+- 🔭 Currently working at **AWCC (Afghan Wireless Communication Company)**  
+- 💬 Ask me about **React, Next.js, Express.js, Nest.js, and Full Stack Development**  
+- 🧠 Constantly learning **Microservices, DevOps, and Cloud Deployment (AWS, Docker)**  
+- ⚡ Fun fact: I love solving complex problems and making clean UIs.  
+- 📫 Reach me at **rohullahsarabi79@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,redux,flutter" />
+  <br />
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,python,java" />
+  <br />
+  <!-- Database & Tools -->
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,git,github,postman,docker" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohullah-sarabi&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohullah-sarabi&theme=tokyonight" alt="GitHub Streak" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohullah-sarabi&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+</p>
+
+---
+
+### 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohullah-sarabi&theme=tokyonight&row=1&column=6" alt="trophies" />
+</p>
+
+---
+
+### ✨ Fun Animated Stats
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohullah-sarabi&theme=tokyo-night" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+### 💡 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+</p>
+
+---
+
+### 🧩 Random Dev Meme
+<p align="center">
+  <img src="https://random-memer.herokuapp.com/" width="400" alt="funny meme" />
+</p>
+
+---
+
+### 🧠 Currently Exploring
+
+- Building scalable **microservices**  
+- Exploring **Next.js 15** and **Server Actions**  
+- Implementing **CI/CD pipelines**  
+- Diving into **AI-powered web apps**
+
+---
+
+### 💬 Let's Collaborate
+
+If you have an idea, project, or open-source contribution — I’d love to collaborate!
+
+---
+
+<h4 align="center">⭐ Show some love by starring my repositories!</h4>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohullah-sarabi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
