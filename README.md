@@ -9,7 +9,7 @@
 
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://github.com/Rohullah-Sarabi/Rohullah-Sarabi/blob/main/d18632b5-1665-4024-964a-717449d349d3.jpg" alt="Rohullah Sarabi" width="200" height="200" style="border-radius: 50%;"/>
+  <img src="https://github.com/Rohullah-Sarabi/Rohullah-Sarabi/blob/main/d18632b5-1665-4024-964a-717449d349d3.jpg" alt="Rohullah Sarabi" style="border-radius: 50%;"/>
 </p>
 
 ---
