@@ -4,7 +4,7 @@
 
 <!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=0078FF&center=true&vCenter=true&width=600&lines=Passionate+Full+Stack+Developer;Building+Modern+Web+Applications;Clean+Code+%7C+Scalable+Architecture+%7C+High+Performance" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=0078FF&center=true&vCenter=true&width=600&lines=Passionate+Full+Stack+Developer;Building+Modern+Web+Applications;Clean+Code%7CScalable+Architecture%7CHigh+Performance" alt="Typing Animation" />
 </p>
 
 <!-- Profile Image -->
