@@ -1,105 +1,90 @@
-<!-- PROFILE HEADER -->
+<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm <span style="color:#0078ff;">Rohullah Sarabi</span></h1>
-<h3 align="center">🚀 Full Stack Developer | React | Next.js | Node | Nest.js</h3>
+<h3 align="center">💻 Full Stack Developer | React ⚛️ • Next.js ⚡ • Node.js 🚀 • Nest.js 🧩</h3>
 
+<!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://github.com/Rohullah-Sarabi/Rohullah-Sarabi/blob/main/d18632b5-1665-4024-964a-717449d349d3.jpg" alt="rohullah-sarabi" width="180" style="border-radius:50%;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=0078FF&center=true&vCenter=true&width=600&lines=Passionate+Full+Stack+Developer;Building+Modern+Web+Applications;Clean+Code+%7C+Scalable+Architecture+%7C+High+Performance" alt="Typing Animation" />
 </p>
 
+<!-- Profile Image -->
 <p align="center">
-  <a href="mailto:rohullahsarabi79@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/rohullah-sarabi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/Rohullah-Sarabi" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github" /></a>
+  <img src="https://github.com/Rohullah-Sarabi/Rohullah-Sarabi/blob/main/d18632b5-1665-4024-964a-717449d349d3.jpg" alt="Rohullah Sarabi" width="200" height="200" style="border-radius: 50%;"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
+### 🚀 About Me  
 - 🔭 Currently working at **AWCC (Afghan Wireless Communication Company)**  
-- 💬 Ask me about **React, Next.js, Express.js, Nest.js, and Full Stack Development**  
-- 🧠 Constantly learning **Microservices, DevOps, and Cloud Deployment (AWS, Docker)**  
-- ⚡ Fun fact: I love solving complex problems and making clean UIs.  
-- 📫 Reach me at **rohullahsarabi79@gmail.com**
+- 💬 Ask me about **React, Next.js, Express.js, Nest.js**  
+- 📫 Reach me at **rohullahsarabi79@gmail.com**  
+- ⚡ Fun fact: I love turning ideas 💡 into powerful apps 💻  
 
 ---
 
-### 🛠️ Tech Stack
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohullah-sarabi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0078FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rohullahsarabi79@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Rohullah-Sarabi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
 
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,redux,flutter" />
-  <br />
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,python,java" />
-  <br />
-  <!-- Database & Tools -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,git,github,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,mongodb,mysql,postgres,redis,tailwind,bootstrap,redux,typescript,javascript,java,python,php,git,firebase&theme=light" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohullah-sarabi&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohullah-sarabi&theme=tokyonight" alt="GitHub Streak" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohullah-sarabi&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohullah-sarabi&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohullah-sarabi&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+</div>
 
 ---
 
-### 🏆 Achievements
-
+### 🔥 GitHub Streaks
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohullah-sarabi&theme=tokyonight&row=1&column=6" alt="trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohullah-sarabi&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
 
-### ✨ Fun Animated Stats
-
+### 🧠 Quote of the Day
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohullah-sarabi&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
 
 ---
 
-### 💡 Quote of the Day
-
+### 👁️ Visitor Count
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+  <img src="https://komarev.com/ghpvc/?username=rohullah-sarabi&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views"/>
 </p>
 
 ---
 
-### 🧩 Random Dev Meme
+### ⚙️ My Development Philosophy
+> “Code is not just about solving problems — it's about creating experiences.”
+
+---
+
+### 🏆 Achievements & Badges
 <p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="400" alt="funny meme" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rohullah-sarabi&theme=onestar&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-### 🧠 Currently Exploring
-
-- Building scalable **microservices**  
-- Exploring **Next.js 15** and **Server Actions**  
-- Implementing **CI/CD pipelines**  
-- Diving into **AI-powered web apps**
-
----
-
-### 💬 Let's Collaborate
-
-If you have an idea, project, or open-source contribution — I’d love to collaborate!
-
----
-
-<h4 align="center">⭐ Show some love by starring my repositories!</h4>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohullah-sarabi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+💡 *Always exploring, learning, and building — one line of code at a time.*
